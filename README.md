@@ -1,6 +1,6 @@
 ### Howdy
 
-My name is Cameron Pfiffer. I work at [.txt](https://dottxt.co/), where I write cool examples + work with people on how to do structured text generation.
+My name is Cameron Pfiffer. I work at [Letta](https://letta.com), which provides a cloud service to run your self-improving AI systems.
 
 I used to be a postdoctoral researcher at the Stanford GSB. I got my PhD in Finance at the University of Oregon. I'm occasionally a developer for [Turing.jl](https://github.com/TuringLang/Turing.jl). I do Bayes stuff, industrial organization, asset pricing, market microstructure, and random other things as needed.
 
