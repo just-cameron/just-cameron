@@ -4,6 +4,8 @@ My name is Cameron Pfiffer. I work at [Letta](https://letta.com). We build machi
 
 I used to be a postdoctoral researcher at the Stanford GSB. I got my PhD in Finance at the University of Oregon. I helped build [Turing.jl](https://github.com/TuringLang/Turing.jl), a probabilistic programming language. I do Bayes stuff, industrial organization, asset pricing, market microstructure, and random other things as needed.
 
+You can see my website here: https://cameron.stream
+
 <!--
 **cpfiffer/cpfiffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
